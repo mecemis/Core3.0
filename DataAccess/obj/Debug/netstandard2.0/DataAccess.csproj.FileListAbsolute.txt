@@ -1,0 +1,13 @@
+C:\Users\Murat\Desktop\visual st projeler\CoreThreeProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Murat\Desktop\visual st projeler\CoreThreeProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Murat\Desktop\visual st projeler\CoreThreeProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Murat\Desktop\visual st projeler\CoreThreeProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Murat\Desktop\visual st projeler\CoreThreeProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Murat\Desktop\visual st projeler\CoreThreeProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Murat\Desktop\visual st projeler\CoreThreeProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Murat\Desktop\visual st projeler\CoreThreeProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\visual st projeler\CoreThreeProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Murat\Desktop\visual st projeler\CoreThreeProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Murat\Desktop\visual st projeler\CoreThreeProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Murat\Desktop\visual st projeler\CoreThreeProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Murat\Desktop\visual st projeler\CoreThreeProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
